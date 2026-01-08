@@ -45,7 +45,7 @@ public:
     }*/
    void getDetails(){
     cout <<"name :" << name <<endl;
-    cout <<"department :" << dept <<endl;
+    cout <<"departments :" << dept <<endl;
    }
 
 };
